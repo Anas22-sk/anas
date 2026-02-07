@@ -120,10 +120,9 @@ export default function Home() {
                   <div className="floating-card-icon">
                     <TrendingUp className="icon-lg" />
                   </div>
-                  <div>
-                    <div className="floating-card-value">+40%</div>
+                  <div>  
                     <div className="floating-card-label">
-                      زيادة في الإنتاجية
+                      زيادة مضمونة في الإنتاجية
                     </div>
                   </div>
                 </div>
