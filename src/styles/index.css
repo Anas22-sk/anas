@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Cairo";
+  src: url("../assets/fonts/Cairo-VariableFont.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Gagalin";
+  src: url("../assets/fonts/Gagalin-Regular.otf") format("opentype");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Cairo", sans-serif;
+}
